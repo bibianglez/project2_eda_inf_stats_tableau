@@ -4,5 +4,7 @@ data:
     file2: "../data/raw/df_final_experiment_clients.txt"
     file3: "../data/raw/df_final_web_data_pt_1.txt"
     file4: "../data/raw/df_final_web_data_pt_2.txt"
+    file5: "../data/raw/final_web_data_merged.csv"
   clean:
-    file1: "../data/clean/file1.csv"
+    file1: "../data/clean/df_demo_cleaned.csv"
+    file2: "../data/clean/df_experiment_clients_cleaned.csv"
