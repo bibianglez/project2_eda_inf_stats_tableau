@@ -12,3 +12,4 @@ data:
     file4: "../data/clean/df_control_cids.csv"
     file5: "../data/clean/final_web_data_merged_confirmed.csv"
     file6: "../data/clean/final_web_data_merged_cleaned.csv"
+    file6: "../data/clean/df_merged_unique_vids.csv"
