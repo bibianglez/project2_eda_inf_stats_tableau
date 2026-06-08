@@ -1,0 +1,15 @@
+data:
+  raw:
+    file1: "../data/raw/df_final_demo.txt"
+    file2: "../data/raw/df_final_experiment_clients.txt"
+    file3: "../data/raw/df_final_web_data_pt_1.txt"
+    file4: "../data/raw/df_final_web_data_pt_2.txt"
+    file5: "../data/raw/final_web_data_merged.csv"
+  clean:
+    file1: "../data/clean/df_demo_cleaned.csv"
+    file2: "../data/clean/df_experiment_clients_cleaned.csv"
+    file3: "../data/clean/df_test_cids.csv"
+    file4: "../data/clean/df_control_cids.csv"
+    file5: "../data/clean/final_web_data_merged_confirmed.csv"
+    file6: "../data/clean/final_web_data_merged_cleaned.csv"
+    file6: "../data/clean/df_merged_unique_vids.csv"
