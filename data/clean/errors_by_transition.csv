@@ -1,0 +1,9 @@
+transition,group,error_count,error_rate
+start→step_1,control,1204,0.0664
+start→step_1,test,3273,0.1488
+step_1→step_2,control,653,0.036
+step_1→step_2,test,1095,0.0498
+step_2→step_3,control,1370,0.0755
+step_2→step_3,test,1137,0.0517
+step_3→confirm,control,0,0.0
+step_3→confirm,test,1,0.0
