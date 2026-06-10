@@ -1,0 +1,11 @@
+step,group,clients_reached,completion_rate
+start,control,22934,1.0
+start,test,25388,1.0
+step_1,control,18139,0.7909
+step_1,test,21997,0.8664
+step_2,control,16132,0.7034
+step_2,test,19503,0.7682
+step_3,control,14790,0.6449
+step_3,test,17842,0.7028
+confirm,control,12743,0.5556
+confirm,test,15343,0.6043
