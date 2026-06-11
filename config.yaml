@@ -13,3 +13,6 @@ data:
     file5: "../data/clean/final_web_data_merged_confirmed.csv"
     file6: "../data/clean/final_web_data_merged_cleaned.csv"
     file6: "../data/clean/df_merged_unique_vids.csv"
+    file7: "../data/clean/df_alldata.csv"
+    file8: "../data/clean/errors_by_transition.csv"
+    file9: "../data/clean/funnel_by_step.csv"

@@ -1,0 +1,9 @@
+step,time(seconds),condition
+time_start_step1,38.72,control
+time_start_step1,25.58,test
+time_step1_step2,33.3,control
+time_step1_step2,35.59,test
+time_step2_step3,85.48,control
+time_step2_step3,79.81,test
+time_step3_confirm,127.74,control
+time_step3_confirm,102.68,test
