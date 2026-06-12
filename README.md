@@ -175,3 +175,10 @@ Both results are statistically significant (p < 0.0001). The Test UI improves co
 3. **More early errors**: Test introduces more backward navigation at start → step_1 and step_1 → step_2, but less at step_2 → step_3. This may reflect users exploring the new interface before settling in.
 4. **Universal improvement**: The Test UI outperforms Control across all age groups, balance levels, and genders — suggesting the improvement is robust, not driven by a single segment.
 5. **Older users need attention**: Completion rates and error rates worsen with age, especially under the new UI. This could be an area for targeted UX improvements.
+
+
+## Deliverables 
+Trello - https://trello.com/b/iGfwxcrc/2nd-project
+
+
+Slides - https://docs.google.com/presentation/d/18_78xmEKy1o-nXPmY-QG6UUnT9iPaaoeHN4B-LedHyM/edit?usp=sharing
